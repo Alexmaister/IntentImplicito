@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     public void lanzarEmail(View boton){
+//Hola
 
         EditText texto=(EditText)findViewById(R.id.texto);
         EditText receptor=(EditText)findViewById(R.id.receptor);
